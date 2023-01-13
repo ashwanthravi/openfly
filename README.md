@@ -4,7 +4,10 @@ open source drone autopilot software
 
 - [ ] Architecture
 - [ ] Sensor Drivers
-- [ ] HAL (SPI, I2C, Serial)
+- [ ] HAL (UART, SPI, I2C, Serial)
 - [ ] EKF - Altitude and Pose estimation
 - [ ] Simulation environment
 - [ ] control code (PID)
+- [ ] Storage system & EEPROM management
+- [ ] RC input and output
+- [ ] Threading
