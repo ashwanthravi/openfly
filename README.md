@@ -11,3 +11,7 @@ open source drone autopilot software
 - [ ] Storage system & EEPROM management
 - [ ] RC input and output
 - [ ] Threading
+
+PX4 Architecture
+
+Modular based system architecture
